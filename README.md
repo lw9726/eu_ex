@@ -34,7 +34,7 @@ This Script can check the VPS amount in your account automatically and renew the
 ## Mail forwarding and mailparser settings
 ### Mail forwarding
 
-Take gmail as an example, forward emails to mailparser.
+Take gmail as an example, forward emails to [mailparser](https://mailparser.io).
 
 - ![gmail_filter_keys](./images/gmail_filter_keys.png)
 
